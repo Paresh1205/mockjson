@@ -1,6 +1,6 @@
 {
   "User": [
-    { "name":"Paresh Korani","dob": "12-05-95", "address": "New Plot,Amalner","email":"paresh.korani1205@gmail.com","phone":8459705362,"relation":"self"}
+    { "name":"Paresh Korani","dob": "12-05-95","address1":"Near ICICI Bank", "address2": "New Plot,Amalner","email":"paresh.korani1205@gmail.com","phone":8459705362,"relation":"self"}
     
   ],
   "Policy": [
