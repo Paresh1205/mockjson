@@ -1,8 +1,7 @@
 {
   "User": [
-    { "Name":"Paresh Korani","DOB": "12-05-95", "Address": "New Plot,Amalner","Email":"paresh.korani1205@gmail.com","Phone":8459705362 },
-    { "Name":"Bharat Korani","DOB": "22-3-1998", "Address": "New Plot,Amalner","Email":"paresh.korani1205@gmail.com","Phone":9405053320},
-    { "Name":"Ram Korani","DOB": "15-9-2000", "Address": "New Plot,Amalner","Email":"paresh.korani1205@gmail.com","Phone":8459705362}
+    { "Name":"Paresh Korani","DOB": "12-05-95", "Address": "New Plot,Amalner","Email":"paresh.korani1205@gmail.com","Phone":8459705362 }
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
