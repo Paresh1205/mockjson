@@ -7,6 +7,6 @@
     { "policyNo": 1, "body": "some comment", "postId": 1 },
     { "policyNo": 2, "body": "some comment", "postId": 1 }
   ],
-  "Ins_type": ["Health Insurance","LIC Insurance","Car Insurance","Travel Insurance"]
+  "Ins_type": ["Self Base","Own Group","Spouse Group","Self Top-up"]
   
 }
