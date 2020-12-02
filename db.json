@@ -7,6 +7,7 @@
     { "policyNo": 1, "body": "some comment", "postId": 1 },
     { "policyNo": 2, "body": "some comment", "postId": 1 }
   ],
-  "Ins_type": ["Self Base","Own Group","Spouse Group","Self Top-up"]
+  "Ins_type": ["Self Base","Own Group","Spouse Group","Self Top-up"],
+  "Covered_person":["Father","Mother","Spouse","Son","Daughter","Brother","Sister"]
   
 }
