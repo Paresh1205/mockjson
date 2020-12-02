@@ -3,11 +3,10 @@
     { "name":"Paresh Korani","dob": "12-05-95", "address": "New Plot,Amalner","email":"paresh.korani1205@gmail.com","phone":8459705362,"relation":"self"}
     
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Policy": [
+    { "policyNo": 1, "body": "some comment", "postId": 1 },
+    { "policyNo": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Ins_type": ["Health Insurance","LIC Insurance","Car Insurance","Travel Insurance"]
+  
 }
