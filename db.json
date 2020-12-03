@@ -1,18 +1,20 @@
 {
   
   "User": [
-    { "name":"Paresh Korani","dob": "12-05-95","address1":"Near ICICI Bank", "address2": "New Plot,Amalner","email":"paresh.korani1205@gmail.com","phone":8459705362,"relation":"self"}
+    { "name":"Paresh Korani",
+     "dob": "12-05-95",
+     "address1":"Near ICICI Bank",
+     "address2": "New Plot,Amalner",
+     "email":"paresh.korani1205@gmail.com",
+     "phone":8459705362,
+     "relation":"self"
+    }
     
   ],
   
-  "Policy": [
-    { "policyNo": 1, "body": "some comment", "postId": 1 },
-    { "policyNo": 2, "body": "some comment", "postId": 1 }
-  ],
+  "Ins_type": ["Self Base","Own Group","Spouse Group","Self Top-up","Specific Disease"],
   
-  "Ins_type": ["Self Base","Own Group","Spouse Group","Self Top-up"],
-  
-  "Covered_person":["Father","Mother","Spouse","Son","Daughter","Brother","Sister"],
+  "Covered_person":["Self","Father","Mother","Spouse","Son","Daughter","Father-in-law","Mother-in-law","Brother","Sister"],
   
   "Coverage_type":["Hospitalization"," OPD treatment","Ambulance services","Room Rent Cap","Copay %","Deductible for Hospitalization"]
   
