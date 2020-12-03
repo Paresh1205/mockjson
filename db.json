@@ -20,9 +20,9 @@
           "city": "Suite 449",
           "district": "Bartholomebury",
           "country": "USA",
+          "po":"xyz",
+         "police":"abc"
        },
-       "email":"paresh.korani1205@gmail.com",
-       "phone":8459705362,
        "relation":"self"
     }
     
