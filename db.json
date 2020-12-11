@@ -58,9 +58,9 @@
   
   "Coverage_type":["Hospitalization"," OPD treatment","Ambulance services","Room Rent Cap","Copay %","Deductible for Hospitalization"],
   
-  "Carrier_details":[{"1","Self Base","Swartha Datta","Self","Remove"},
-                     {"2","Spouse Group","Swarthi Datta","Spouse","Remove"},
-                     {"3","Self Topup","Swartha Datta","Self","Remove"}
+  "Carrier_details":[{"Ins_co":"1","Ins_type":"Self Base","Prime_mem":"Swartha Datta","Rel":"Self"},
+                     {"Ins_co":"2","Ins_type":"Spouse Group","Prime_mem":"Swarthi Datta","Rel":"Spouse"},
+                     {"Ins_co":"3","Ins_type":"Self Topup","Prime_mem":"Swartha Datta","Rel":"Self"}
                     ]
   
 }
