@@ -24,30 +24,6 @@
          "police":"abc"
        },
        "relation":"self"
-    },
-    { 
-        "name":"Shankar Korani",
-       "dob": "12-05-95",
-       "gender":"Male",
-       "email":{
-          "prime_email":"shankar.korani@gmail.com",
-         "second_email":"paresh.korani@gmail.com"
-       },
-       "phone":{
-          "phone1":"8975103979",
-          "phone2":"8459705362"
-       },
-       "address": {
-          "address1":"Near ICICI Bank",
-          "address2": "New Plot,Amalner",
-          "area": "Dayna Park",
-          "city": "Suite 449",
-          "district": "Bartholomebury",
-          "country": "USA",
-          "po":"xyz",
-         "police":"abc"
-       },
-       "relation":"self"
     }
     
   ],
