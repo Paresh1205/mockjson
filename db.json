@@ -61,6 +61,13 @@
   "Carrier_details":[{"Ins_co":"1","Ins_type":"Self Base","Prime_mem":"Swartha Datta","Rel":"Self"},
                      {"Ins_co":"2","Ins_type":"Spouse Group","Prime_mem":"Swarthi Datta","Rel":"Spouse"},
                      {"Ins_co":"3","Ins_type":"Self Topup","Prime_mem":"Swartha Datta","Rel":"Self"}
-                    ]
+                    ],
+  "Covered_person_details":[
+                             {"Ins_co":"1","Ins_type":"Self Base","Covered_person":"Swartha Datta","Rel":"Self"},
+                              {"Ins_co":"1","Ins_type":"Self Base","Covered_person":"Swarthi Datta","Rel":"Spouse"},
+                              {"Ins_co":"1","Ins_type":"Self Base","Covered_person":"Swarth Datta","Rel":"Son"},
+                              {"Ins_co":"2","Ins_type":"Spouse Group","Covered_person":"Swarthi Datta","Rel":"Spouse"},
+                              {"Ins_co":"2","Ins_type":"Spouse Group","Covered_person":"Swarthnami Datta","Rel":"Mother-in-law"}
+                            ]
   
 }
